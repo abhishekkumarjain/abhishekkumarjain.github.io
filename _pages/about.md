@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 <p><font size ="2">Abhishek is a Postdoctoral Research Staff Member at the <a href="http://computation.llnl.gov/casc/">Center for Applied Scientific Computing</a>&nbsp;at Lawrence Livermore National Laboratory. 
   His current research involves the design of configurable compute engines for near memory processing.</font></p>
 
