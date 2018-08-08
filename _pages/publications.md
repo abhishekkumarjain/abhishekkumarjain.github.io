@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h3 id="fccm2018"><a href="" id="fpl2018"><span class="twbs"><span class="badge badge-primary" style="border: none;">FCCM 2018</span></span></a>: “Microscope on memory: MPSoC-enabled computer memory system assessments”</h3>
+<p>Conferences: 
+<a href="#fccm2018"><span class="twbs"><span class="badge badge-primary" style="border: none;">FCCM 2018</span></span></a>
+
+<h3 id="fccm2018"><a href="" id="fccm2018"><span class="twbs"><span class="badge badge-primary" style="border: none;">FCCM 2018</span></span></a>: “Microscope on memory: MPSoC-enabled computer memory system assessments”</h3>
 <p><strong>Abhishek Kumar Jain</strong>, Scott Lloyd, and Maya Gokhale, 
 “Microscope on memory: MPSoC-enabled computer memory system assessments”, Proceedings of the IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM), pages 173–180. Boulder, CO, USA, May 2018.</p>
 
