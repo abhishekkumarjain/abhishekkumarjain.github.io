@@ -5,7 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2018.pdf) <strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong><br> <u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, May 2018 <br>
+[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2018.pdf) <strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong><br> 
+<u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> 
+<em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, Boulder, CO, USA, May 2018 <br>
+
+[[PDF]](https://abhishekkumarjain.github.io/files/DATE2018.pdf) <strong>“A Time-Multiplexed FPGA Overlay with Linear Interconnect”</strong><br> 
+Xiangwei Li, <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
+<em>Design, Automation & Test in Europe Conference & Exhibition (<strong>DATE</strong>), Dresden, Germany, March 2018.<br>
+
+[[PDF]](https://abhishekkumarjain.github.io/files/ACMCAN2015.pdf) <strong>“Adapting the DySER Architecture with DSP Blocks as an Overlay for the Xilinx Zynq”</strong><br> 
+<u>Abhishek Kumar Jain</u>, Xiangwei Li, Suhaib A Fahmy, and Douglas L Maskell <br> 
+<em>ACM SIGARCH Computer Architecture News (<strong>CAN</strong>), 43(4):28–33, September 2016.<br>
+
 
 <li><font size ="2">A. K. Jain, D. L. Maskell, and S. A. Fahmy, <a href="http://www3.ntu.edu.sg/home2012/abhishek013/files/papers/picom2016-jain.pdf">“Are Coarse-Grained Overlays Ready for General Purpose Application Acceleration on FPGAs?”</a>, in <em>Proceedings of the IEEE International Conference on Pervasive Intelligence and Computing</em>, Auckland, New Zealand, August 2016.</font></li>
  
