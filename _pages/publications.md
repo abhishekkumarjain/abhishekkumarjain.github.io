@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p><a href=""https://abhishekkumarjain.github.io/files/FCCM2018.pdf">[PDF]</a> <strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong><br> <u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, May 2018 <br></p>
+<p>[PDF](https://abhishekkumarjain.github.io/files/FCCM2018.pdf) <strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong><br> <u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, May 2018 <br></p>
 
 <li><font size ="2">A. K. Jain, D. L. Maskell, and S. A. Fahmy, <a href="http://www3.ntu.edu.sg/home2012/abhishek013/files/papers/picom2016-jain.pdf">“Are Coarse-Grained Overlays Ready for General Purpose Application Acceleration on FPGAs?”</a>, in <em>Proceedings of the IEEE International Conference on Pervasive Intelligence and Computing</em>, Auckland, New Zealand, August 2016.</font></li>
  
