@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2018.pdf) <strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong><br> 
+[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2018.pdf)[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2018-slides.pdf) <strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong><br> 
 <u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> 
 <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, Boulder, CO, USA, May 2018. <br>
 
