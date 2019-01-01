@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abhishek Jain"
 title_separator          : "-"
 name                     : &name "Abhishek Jain"
-description              : &description "Postdoc at LLNL"
+description              : &description "Hardware Architect at Xilinx"
 url                      : https://abhishekkumarjain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abhishekkumarjain.github.io"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhishek"
+  name             : "Abhishek Jain"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at LLNL"
-  location         : "Livermore, California"
+  bio              : "Hardware Architect at Xilinx"
+  location         : "San Jose, California"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=k8kthdkAAAAJ&hl=en"
   email            :
