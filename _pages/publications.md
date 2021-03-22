@@ -12,6 +12,10 @@ author_profile: true
 <u>Abhishek Kumar Jain</u>, Hossein Omidian, Henri Fraisse, Mansimran Benipal, Lisa Liu, Dinesh Gaitonde <br> 
 <em>IEEE International Conference on Field-Programmable Logic and Applications (<strong>FPL</strong>)</em>, August 2020.<br>
 
+<strong>“Entropy Maximization in Sparse Matrix by Vector Multiplication”</strong>[[PDF]](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70267)<br> 
+Paolo D'Alberto, <u>Abhishek Kumar Jain</u>, Ismail Bustany, Henri Fraisse, Mansimran Benipal, and Dinesh Gaitonde <br> 
+<em>SIAM Conference on Computational Science and Engineering (CSE21)(<strong>CSE</strong>)</em>, March 2021.<br>
+
 <strong>“High Throughput Accelerator Interface Framework for a Linear Time-Multiplexed FPGA Overlay”</strong>[[PDF]](https://warwick.ac.uk/fac/sci/eng/staff/saf/publications/iscas2020-li.pdf)<br> 
 Xiangwei Li, Kizheppatt Vipin, Douglas L Maskell, Suhaib A Fahmy, and <u>Abhishek Kumar Jain</u> <br> 
 <em>International Symposium on Circuits and Systems (<strong>ISCAS</strong>)</em>, October 2020.<br>
