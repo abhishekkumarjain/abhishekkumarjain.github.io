@@ -4,14 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<strong>“Role of on-chip networks in building domain-specific architectures (DSAs) for sparse computations (Invited)”</strong><br> 
-<u>Abhishek Kumar Jain</u> <br> 
-<em>ACM/IEEE International Workshop on System Level Interconnect Prediction (<strong>SLIP</strong>)</em>, November 2020.<br>
-
-<strong>“A Domain-Specific Architecture for Accelerating Sparse Matrix Vector Multiplication on FPGAs”</strong>[[PDF]](http://www.ece.ubc.ca/~hosseino/publications/SpMV_FPL2020_published.pdf)[[Video]](https://www.youtube.com/watch?v=ascaEvDKpWM)<br> 
-<u>Abhishek Kumar Jain</u>, Hossein Omidian, Henri Fraisse, Mansimran Benipal, Lisa Liu, Dinesh Gaitonde <br> 
-<em>IEEE International Conference on Field-Programmable Logic and Applications (<strong>FPL</strong>)</em>, August 2020.<br>
-
 <strong>“Entropy Maximization in Sparse Matrix by Vector Multiplication”</strong>[[PDF]](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70267)<br> 
 Paolo D'Alberto, <u>Abhishek Kumar Jain</u>, Ismail Bustany, Henri Fraisse, Mansimran Benipal, and Dinesh Gaitonde <br> 
 <em>SIAM Conference on Computational Science and Engineering (<strong>CSE</strong>)</em>, March 2021.<br>
@@ -19,6 +11,18 @@ Paolo D'Alberto, <u>Abhishek Kumar Jain</u>, Ismail Bustany, Henri Fraisse, Mans
 <strong>“High Throughput Accelerator Interface Framework for a Linear Time-Multiplexed FPGA Overlay”</strong>[[PDF]](https://warwick.ac.uk/fac/sci/eng/staff/saf/publications/iscas2020-li.pdf)<br> 
 Xiangwei Li, Kizheppatt Vipin, Douglas L Maskell, Suhaib A Fahmy, and <u>Abhishek Kumar Jain</u> <br> 
 <em>International Symposium on Circuits and Systems (<strong>ISCAS</strong>)</em>, October 2020.<br>
+
+<strong>“Run-time Reconfiguration of NoC in Xilinx ACAP Architecture”</strong>[[PDF]](http://www.nocarc.org/home/program)<br> 
+Aman Gupta, Sagheer Ahmed, <u>Abhishek Kumar Jain</u>, Ygal Arbel, Abbas Morshed, and David Schultz<br> 
+<em> International Workshop on Network on Chip Architectures (<strong>NOCARC</strong>)</em>, October 2020.<br>
+
+<strong>“Role of on-chip networks in building domain-specific architectures (DSAs) for sparse computations (Invited)”</strong><br> 
+<u>Abhishek Kumar Jain</u> <br> 
+<em>ACM/IEEE International Workshop on System Level Interconnect Prediction (<strong>SLIP</strong>)</em>, October 2020.<br>
+
+<strong>“A Domain-Specific Architecture for Accelerating Sparse Matrix Vector Multiplication on FPGAs”</strong>[[PDF]](http://www.ece.ubc.ca/~hosseino/publications/SpMV_FPL2020_published.pdf)[[Video]](https://www.youtube.com/watch?v=ascaEvDKpWM)<br> 
+<u>Abhishek Kumar Jain</u>, Hossein Omidian, Henri Fraisse, Mansimran Benipal, Lisa Liu, Dinesh Gaitonde <br> 
+<em>IEEE International Conference on Field-Programmable Logic and Applications (<strong>FPL</strong>)</em>, August 2020.<br>
 
 <strong>“Performance Assessment of Emerging Memories Through FPGA Emulation”</strong>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8527539) <br> 
 <u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> 
