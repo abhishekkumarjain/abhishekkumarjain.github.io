@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<strong>“A Domain-Specific Architecture for Accelerating Sparse Matrix Vector Multiplication on FPGAs”</strong> <br> 
+<strong>“A Domain-Specific Architecture for Accelerating Sparse Matrix Vector Multiplication on FPGAs”</strong>[[PDF]](http://www.ece.ubc.ca/~hosseino/publications/SpMV_FPL2020_published.pdf)[[Video]](https://www.youtube.com/watch?v=ascaEvDKpWM)<br> 
 <u>Abhishek Kumar Jain</u>, Hossein Omidian, Henri Fraisse, Mansimran Benipal, Lisa Liu, Dinesh Gaitonde <br> 
 <em>IEEE International Conference on Field-Programmable Logic and Applications (<strong>FPL</strong>)</em>, August 2020.<br>
 
