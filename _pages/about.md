@@ -15,4 +15,11 @@ under the supervision of [Assoc. Prof. Douglas L. Maskell](http://www.ntu.edu.sg
 
 Prior to his Ph.D., he completed Bachelors of Technology with Honors in Electronics and Communication Engineering from Indian Institute of Information Technology, Allahabad in 2012. For his dissertation work, he worked as an intern at STMicroelectronics, India. Prior to that he was awarded [MITACS Globalink Scholarship](https://www.mitacs.ca/globalink) to pursue research work at Electrical and Computer Engineering Department, University of Alberta, Canada in May, 2011.
 
+Latest Presentations:
 
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/ascaEvDKpWM" 
+title="A Domain-Specific Architecture for Accelerating Sparse Matrix Vector Multiplication on FPGAs" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
