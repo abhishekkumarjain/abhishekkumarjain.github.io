@@ -23,3 +23,10 @@ title="A Domain-Specific Architecture for Accelerating Sparse Matrix Vector Mult
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/CrWcchvFJVM?start=19313" 
+title="Role of on-chip networks in building domain-specific architectures (DSAs) for sparse computations" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
