@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<strong>“Sparse Deep Neural Network Acceleration on HBM-Enabled FPGA Platform”</strong>[[PDF]](http://www.ieee-hpec.org/prelimagenda2021.html)<br> 
+<u>Abhishek Kumar Jain</u>, Sharan Kumar, Aashish Tripathi, and Dinesh Gaitonde <br> 
+<em>IEEE High Performance Extreme Computing (<strong>HPEC</strong>)</em>, September 2021.<br>
+
+<strong>“The Evolution of Domain-Specific Computing for Deep Learning”</strong>[[PDF]](https://ieeexplore.ieee.org/document/9439420)<br> 
+Stephen Neuendorffer, Alireza Khodamoradi, Kristof Denolf, <u>Abhishek Kumar Jain</u>, and Samuel Bayliss <br> 
+<em>IEEE Circuits and Systems Magazine</em>, May 2021.<br>
+
 <strong>“Entropy Maximization in Sparse Matrix by Vector Multiplication”</strong>[[PDF]](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70267)<br> 
 Paolo D'Alberto, <u>Abhishek Kumar Jain</u>, Ismail Bustany, Henri Fraisse, Mansimran Benipal, and Dinesh Gaitonde <br> 
 <em>SIAM Conference on Computational Science and Engineering (<strong>CSE</strong>)</em>, March 2021.<br>
@@ -21,7 +30,7 @@ Aman Gupta, Sagheer Ahmed, <u>Abhishek Kumar Jain</u>, Ygal Arbel, Abbas Morshed
 <em>ACM/IEEE International Workshop on System Level Interconnect Prediction (<strong>SLIP</strong>)</em>, October 2020.<br>
 
 <strong>“A Domain-Specific Architecture for Accelerating Sparse Matrix Vector Multiplication on FPGAs”</strong>[[PDF]](http://www.ece.ubc.ca/~hosseino/publications/SpMV_FPL2020_published.pdf)[[Video]](https://www.youtube.com/watch?v=ascaEvDKpWM)<br> 
-<u>Abhishek Kumar Jain</u>, Hossein Omidian, Henri Fraisse, Mansimran Benipal, Lisa Liu, Dinesh Gaitonde <br> 
+<u>Abhishek Kumar Jain</u>, Hossein Omidian, Henri Fraisse, Mansimran Benipal, Lisa Liu, and Dinesh Gaitonde <br> 
 <em>IEEE International Conference on Field-Programmable Logic and Applications (<strong>FPL</strong>)</em>, August 2020.<br>
 
 <strong>“Performance Assessment of Emerging Memories Through FPGA Emulation”</strong>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8527539) <br> 
