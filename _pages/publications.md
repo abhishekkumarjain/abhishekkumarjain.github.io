@@ -5,13 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+Peer-Reviewed Conference Papers
+-------------------------------
+
 <strong>“Sparse Deep Neural Network Acceleration on HBM-Enabled FPGA Platform”</strong>[[PDF]](http://www.ieee-hpec.org/prelimagenda2021.html)<br> 
 <u>Abhishek Kumar Jain</u>, Sharan Kumar, Aashish Tripathi, and Dinesh Gaitonde <br> 
 <em>IEEE High Performance Extreme Computing (<strong>HPEC</strong>)</em>, September 2021.<br>
-
-<strong>“The Evolution of Domain-Specific Computing for Deep Learning”</strong>[[PDF]](https://ieeexplore.ieee.org/document/9439420)<br> 
-Stephen Neuendorffer, Alireza Khodamoradi, Kristof Denolf, <u>Abhishek Kumar Jain</u>, and Samuel Bayliss <br> 
-<em>IEEE Circuits and Systems Magazine</em>, May 2021.<br>
 
 <strong>“Entropy Maximization in Sparse Matrix by Vector Multiplication”</strong>[[PDF]](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70267)<br> 
 Paolo D'Alberto, <u>Abhishek Kumar Jain</u>, Ismail Bustany, Henri Fraisse, Mansimran Benipal, and Dinesh Gaitonde <br> 
@@ -33,10 +32,6 @@ Aman Gupta, Sagheer Ahmed, <u>Abhishek Kumar Jain</u>, Ygal Arbel, Abbas Morshed
 <u>Abhishek Kumar Jain</u>, Hossein Omidian, Henri Fraisse, Mansimran Benipal, Lisa Liu, and Dinesh Gaitonde <br> 
 <em>IEEE International Conference on Field-Programmable Logic and Applications (<strong>FPL</strong>)</em>, August 2020.<br>
 
-<strong>“Performance Assessment of Emerging Memories Through FPGA Emulation”</strong>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8527539) <br> 
-<u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> 
-<em>Special Issue on Emerging Memory Technologies, <strong>IEEE Micro</strong></em>, Jan 2019. <br>
-
 <strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2018.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/FCCM2018-slides.pdf)<br> 
 <u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> 
 <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, Boulder, CO, USA, May 2018. <br>
@@ -44,10 +39,6 @@ Aman Gupta, Sagheer Ahmed, <u>Abhishek Kumar Jain</u>, Ygal Arbel, Abbas Morshed
 <strong>“A Time-Multiplexed FPGA Overlay with Linear Interconnect”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/DATE2018.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/DATE2018-slides.pdf)<br> 
 Xiangwei Li, <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
 <em>Design, Automation & Test in Europe Conference & Exhibition (<strong>DATE</strong>)</em>, Dresden, Germany, March 2018.<br>
-
-<strong>“Adapting the DySER Architecture with DSP Blocks as an Overlay for the Xilinx Zynq”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/ACMCAN2015.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/HEART2015-slides.pdf)<br> 
-<u>Abhishek Kumar Jain</u>, Xiangwei Li, Suhaib A Fahmy, and Douglas L Maskell <br> 
-<em>ACM SIGARCH Computer Architecture News (<strong>CAN</strong>)</em>, 43(4):28–33, September 2016.<br>
 
 <strong>“Are Coarse-Grained Overlays Ready for General Purpose Application Acceleration on FPGAs?”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/PICOM2016.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/PICOM2016-slides.pdf)<br> 
 <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
@@ -65,12 +56,31 @@ Xiangwei Li, <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <
 <u>Abhishek Kumar Jain</u>, Suhaib A Fahmy, and Douglas L Maskell <br> 
 <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, Vancouver, Canada, May 2015. <br>
 
-<strong>“Virtualized Execution and Management of Hardware Tasks on a Hybrid ARM-FPGA Platform”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/JSPS2014.pdf)<br> 
-<u>Abhishek Kumar Jain</u>, Khoa Dang Pham, Jin Cui, Suhaib A Fahmy, and Douglas L Maskell <br> 
-<em>Journal of Signal Processing Systems (<strong>JSPS</strong>)</em>,  vol. 77, no. 1-2, pp. 61–76, October 2014, Springer. <br>
-
 <strong>“Microkernel Hypervisor for a Hybrid ARM-FPGA Platform”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/ASAP2013.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/ASAP2013-slides.pdf)<br> 
 Khoa Dang Pham, <u>Abhishek Kumar Jain</u>, Jin Cui, Suhaib A Fahmy, and Douglas L Maskell <br> 
 <em>IEEE International Conference on Application-specific Systems, Architectures and Processors (<strong>ASAP</strong>)</em>,  Washington, DC, June 2013. <br>
 
+
+Peer-Reviewed Journal and Magazine Articles
+-------------------------------------------
+
+<strong>“Coarse Grained FPGA Overlay for Rapid Just-In-Time Accelerator Compilation”</strong>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9555373) <br> 
+<u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
+<em>IEEE Transactions on Parallel and Distributed Systems (<strong>TPDS</strong>)</em>, 33(6):1478–1490, June 2022.<br>
+
+<strong>“The Evolution of Domain-Specific Computing for Deep Learning”</strong>[[PDF]](https://ieeexplore.ieee.org/document/9439420)<br> 
+Stephen Neuendorffer, Alireza Khodamoradi, Kristof Denolf, <u>Abhishek Kumar Jain</u>, and Samuel Bayliss <br> 
+<em>IEEE Circuits and Systems Magazine</em>, May 2021.<br>
+
+<strong>“Performance Assessment of Emerging Memories Through FPGA Emulation”</strong>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8527539) <br> 
+<u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> 
+<em>Special Issue on Emerging Memory Technologies, <strong>IEEE Micro</strong></em>, Jan 2019. <br>
+
+<strong>“Adapting the DySER Architecture with DSP Blocks as an Overlay for the Xilinx Zynq”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/ACMCAN2015.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/HEART2015-slides.pdf)<br> 
+<u>Abhishek Kumar Jain</u>, Xiangwei Li, Suhaib A Fahmy, and Douglas L Maskell <br> 
+<em>ACM SIGARCH Computer Architecture News (<strong>CAN</strong>)</em>, 43(4):28–33, September 2016.<br>
+
+<strong>“Virtualized Execution and Management of Hardware Tasks on a Hybrid ARM-FPGA Platform”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/JSPS2014.pdf)<br> 
+<u>Abhishek Kumar Jain</u>, Khoa Dang Pham, Jin Cui, Suhaib A Fahmy, and Douglas L Maskell <br> 
+<em>Journal of Signal Processing Systems (<strong>JSPS</strong>)</em>,  vol. 77, no. 1-2, pp. 61–76, October 2014, Springer. <br>
 
