@@ -20,7 +20,7 @@ Peer-Reviewed Conference Papers
 Xiangwei Li, Kizheppatt Vipin, Douglas L Maskell, Suhaib A Fahmy, and <u>Abhishek Kumar Jain</u> <br> 
 <em>International Symposium on Circuits and Systems (<strong>ISCAS</strong>)</em>, August 2020.<br>
 
-<strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2018.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/FCCM2018-slides.pdf)<br> 
+<strong>“Microscope on Memory: MPSoC-enabled Computer Memory System Assessments”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2018.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/FCCM2018-slides.pdf)[[Poster]](https://abhishekkumarjain.github.io/files/FCCM2018-poster.pdf)<br> 
 <u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> 
 <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, Boulder, CO, USA, May 2018. <br>
 
@@ -40,7 +40,7 @@ Xiangwei Li, <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <
 <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
 <em>Design, Automation & Test in Europe Conference & Exhibition (<strong>DATE</strong>)</em>, Dresden, Germany, March 2016.<br>
 
- <strong>“Efficient Overlay Architecture Based on DSP Blocks”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2015.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/FCCM2015-slides.pdf)<br> 
+ <strong>“Efficient Overlay Architecture Based on DSP Blocks”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/FCCM2015.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/FCCM2015-slides.pdf)[[Poster]](https://abhishekkumarjain.github.io/files/FCCM2015-poster.pdf)<br> 
 <u>Abhishek Kumar Jain</u>, Suhaib A Fahmy, and Douglas L Maskell <br> 
 <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, Vancouver, Canada, May 2015. <br>
 
@@ -84,6 +84,10 @@ Aman Gupta, Sagheer Ahmed, <u>Abhishek Kumar Jain</u>, Ygal Arbel, Abbas Morshed
 <u>Abhishek Kumar Jain</u> <br> 
 <em>ACM/IEEE International Workshop on System Level Interconnect Prediction (<strong>SLIP</strong>)</em>, October 2020.<br>
 
+<strong>“LiME: An Open Source Memory System Emulation Platform”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/OPENSU2017.pdf) <br> 
+<u>Abhishek Kumar Jain</u>, Scott Lloyd, and Maya Gokhale <br> 
+<em>Workshop for Open Source Supercomputing <strong>OpenSuCo</strong></em>, November 2017. <br>
+
 <strong>“Resource-Aware Just-in-Time OpenCL Compiler for Coarse-Grained FPGA Overlays”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/OLAF2017.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/OLAF2017-slides.pdf)<br> 
 <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
 <em>Third International Workshop on Overlay Architectures for FPGAs (<strong>OLAF</strong>)</em>, February 2017.<br>
@@ -91,5 +95,11 @@ Aman Gupta, Sagheer Ahmed, <u>Abhishek Kumar Jain</u>, Ygal Arbel, Abbas Morshed
 <strong>“An Area-Efficient FPGA Overlay using DSP Block based Time-multiplexed Functional Units”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/OLAF2016.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/OLAF2016-slides.pdf)<br> 
 Xiangwei Li, <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
 <em>Second International Workshop on Overlay Architectures for FPGAs (<strong>OLAF</strong>)</em>, February 2016.<br>
+
+<strong>“Coarse-Grained FPGA Overlays for On-demand Acceleration of Data Center Workloads”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/H2RC2016.pdf)[[Poster]](https://abhishekkumarjain.github.io/files/H2RC2016-poster.pdf)<br> 
+<u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
+<em>Second International Workshop on
+Heterogeneous High-performance Reconfigurable Computing (<strong>H2RC</strong>)</em>, November 2016.<br>
+
 
 
