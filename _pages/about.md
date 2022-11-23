@@ -22,20 +22,20 @@ src="https://www.youtube.com/embed/ascaEvDKpWM"
 title="A Domain-Specific Architecture for Accelerating Sparse Matrix Vector Multiplication on FPGAs" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+allowfullscreen></iframe><br>
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/CrWcchvFJVM?start=19313" 
 title="Role of on-chip networks in building domain-specific architectures (DSAs) for sparse computations" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+allowfullscreen></iframe><br>
 
-<iframe width="560" height="815" 
+<iframe width="300" height="500" 
 src="https://abhishekkumarjain.github.io/files/FCCM2015-poster.pdf" 
 title="Efficient Overlay Architecture Based on DSP Blocks" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+allowfullscreen></iframe><br>
 
 
