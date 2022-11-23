@@ -16,6 +16,11 @@ under the supervision of [Assoc. Prof. Douglas L. Maskell](http://www.ntu.edu.sg
 Prior to his Ph.D., he completed Bachelors of Technology with Honors in Electronics and Communication Engineering from Indian Institute of Information Technology, Allahabad in 2012. For his dissertation work, he worked as an intern at STMicroelectronics, India. Prior to that he was awarded [MITACS Globalink Scholarship](https://www.mitacs.ca/globalink) to pursue research work at Electrical and Computer Engineering Department, University of Alberta, Canada in May, 2011.
 
 
+## Open Source Contributions (Hardware/Software)
+
+* Xilinx hydra: An experimental framework to explore domain-specific architectures (targetting FPGA) for sparse linear algebra applications. Currently, the repository contains tools to design and customize accelerator for sparse matrix vector multiplication (SpMV) targetting HBM-enabled FPGA platform (Alveo U280). Github Repo: https://github.com/Xilinx/hydra
+
+
 
 
 
