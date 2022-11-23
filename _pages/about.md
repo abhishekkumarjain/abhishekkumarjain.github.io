@@ -31,11 +31,5 @@ frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe><br>
 
-<iframe width="300" height="500" 
-src="https://abhishekkumarjain.github.io/files/FCCM2015-poster.pdf" 
-title="Efficient Overlay Architecture Based on DSP Blocks" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe><br>
 
 
