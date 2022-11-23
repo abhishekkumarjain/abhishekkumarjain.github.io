@@ -84,5 +84,12 @@ Aman Gupta, Sagheer Ahmed, <u>Abhishek Kumar Jain</u>, Ygal Arbel, Abbas Morshed
 <u>Abhishek Kumar Jain</u> <br> 
 <em>ACM/IEEE International Workshop on System Level Interconnect Prediction (<strong>SLIP</strong>)</em>, October 2020.<br>
 
+<strong>“Resource-Aware Just-in-Time OpenCL Compiler for Coarse-Grained FPGA Overlays”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/OLAF2017.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/OLAF2017-slides.pdf)<br> 
+<u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
+<em>Third International Workshop on Overlay Architectures for FPGAs (<strong>OLAF</strong>)</em>, February 2017.<br>
+
+<strong>“An Area-Efficient FPGA Overlay using DSP Block based Time-multiplexed Functional Units”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/OLAF2016.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/OLAF2016-slides.pdf)<br> 
+Xiangwei Li, <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
+<em>Second International Workshop on Overlay Architectures for FPGAs (<strong>OLAF</strong>)</em>, February 2016.<br>
 
 
