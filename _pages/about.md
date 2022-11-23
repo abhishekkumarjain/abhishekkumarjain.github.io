@@ -19,7 +19,7 @@ Prior to his Ph.D., he completed Bachelors of Technology with Honors in Electron
 ## Open Source Contributions (Hardware/Software)
 
 * <strong>Xilinx hydra:</strong> An experimental framework to explore domain-specific architectures (targetting FPGA) for sparse linear algebra applications. Currently, the repository contains tools to design and customize accelerator for sparse matrix vector multiplication (SpMV) targetting HBM-enabled FPGA platform (Alveo U280). Github Repo: https://github.com/Xilinx/hydra
-* * <strong>LLNL lime:</strong> Logic in Memory Emulator (LiME) is a hardware/software tool specially designed for memory system evaluation and experiment. Emerging memories display a wide range of bandwidths, latencies, and capacities, making it challenging for the computer architect to navigate the design space of potential memory configurations, and for the application developer to assess performance implications of using such memories. Github Repo: https://github.com/LLNL/lime
+* <strong>LLNL lime:</strong> Logic in Memory Emulator (LiME) is a hardware/software tool specially designed for memory system evaluation and experiment. Emerging memories display a wide range of bandwidths, latencies, and capacities, making it challenging for the computer architect to navigate the design space of potential memory configurations, and for the application developer to assess performance implications of using such memories. Github Repo: https://github.com/LLNL/lime
 
 
 
