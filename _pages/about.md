@@ -30,3 +30,12 @@ title="Role of on-chip networks in building domain-specific architectures (DSAs)
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
+<iframe width="560" height="815" 
+src="https://abhishekkumarjain.github.io/files/FCCM2015-poster.pdf" 
+title="Efficient Overlay Architecture Based on DSP Blocks" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+
