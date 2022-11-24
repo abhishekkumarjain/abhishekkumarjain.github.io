@@ -5,8 +5,6 @@ permalink: /services/
 author_profile: true
 ---
 
-## Services
-
 ### Journal Reviews
 
 * IEEE Micro
