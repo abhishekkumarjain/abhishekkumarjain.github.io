@@ -24,13 +24,14 @@ Prior to his Ph.D., he completed Bachelors of Technology with Honors in Electron
 
 ## Services
 
-* <strong><u>Journal Reviews</u></strong>
-** IEEE Micro
-** IEEE Transactions on Computers (TC)
-** IEEE Embedded Systems Letters (ESL)
-** IEEE Transactions on Parallel and Distributed Systems (TPDS)
-** Elsevier Journal Microprocessors and Microsystems (MICPRO)
-** Elsevier Journal of Parallel and Distributed Computing (JPDC)
+### Journal Reviews
+
+* IEEE Micro
+* IEEE Transactions on Computers (TC)
+* IEEE Embedded Systems Letters (ESL)
+* IEEE Transactions on Parallel and Distributed Systems (TPDS)
+* Elsevier Journal Microprocessors and Microsystems (MICPRO)
+* Elsevier Journal of Parallel and Distributed Computing (JPDC)
 
 
 
