@@ -22,25 +22,6 @@ Prior to his Ph.D., he completed Bachelors of Technology with Honors in Electron
 * <strong><u>LLNL lime:</u></strong> Logic in Memory Emulator (LiME) is a hardware/software tool specially designed for memory system evaluation and experiment. Emerging memories display a wide range of bandwidths, latencies, and capacities, making it challenging for the computer architect to navigate the design space of potential memory configurations, and for the application developer to assess performance implications of using such memories. Github Repo: [https://github.com/LLNL/lime](https://github.com/LLNL/lime)
 
 
-## Services
-
-### Journal Reviews
-
-* IEEE Micro
-* IEEE Transactions on Computers (TC)
-* IEEE Embedded Systems Letters (ESL)
-* IEEE Transactions on Parallel and Distributed Systems (TPDS)
-* Elsevier Journal Microprocessors and Microsystems (MICPRO)
-* Elsevier Journal of Parallel and Distributed Computing (JPDC)
-
-### Conference Reviews
-
-* International Symposium on Field-Programmable Gate Arrays (FPGA)
-* International Symposium on Field-Programmable Custom Computing Machines (FCCM)
-* International Conference on Field-Programmable Logic and Applications (FPL)
-* International Conference on Field Programmable Technology (FPT)
-* International Conference on Application-specific Systems, Architectures and Processors (ASAP)
-* International Conference on High Performance Computing (HiPC)
 
 
 
