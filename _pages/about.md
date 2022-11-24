@@ -33,6 +33,14 @@ Prior to his Ph.D., he completed Bachelors of Technology with Honors in Electron
 * Elsevier Journal Microprocessors and Microsystems (MICPRO)
 * Elsevier Journal of Parallel and Distributed Computing (JPDC)
 
+### Conference Reviews
+
+* International Symposium on Field-Programmable Gate Arrays (FPGA)
+* International Symposium on Field-Programmable Custom Computing Machines (FCCM)
+* International Conference on Field-Programmable Logic and Applications (FPL)
+* International Conference on Field Programmable Technology (FPT)
+* International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+* International Conference on High Performance Computing (HiPC)
 
 
 
