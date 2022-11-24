@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer-Reviewed Conference Papers
--------------------------------
+## Peer-Reviewed Conference Papers
 
 <strong>“Sparse Deep Neural Network Acceleration on HBM-Enabled FPGA Platform”</strong>[[PDF]](http://www.ieee-hpec.org/prelimagenda2021.html)<br> 
 <u>Abhishek Kumar Jain</u>, Sharan Kumar, Aashish Tripathi, and Dinesh Gaitonde <br> 
@@ -49,8 +48,7 @@ Khoa Dang Pham, <u>Abhishek Kumar Jain</u>, Jin Cui, Suhaib A Fahmy, and Douglas
 <em>IEEE International Conference on Application-specific Systems, Architectures and Processors (<strong>ASAP</strong>)</em>,  Washington, DC, June 2013. <br>
 
 
-Peer-Reviewed Journal and Magazine Articles
--------------------------------------------
+## Peer-Reviewed Journal and Magazine Articles
 
 <strong>“Coarse Grained FPGA Overlay for Rapid Just-In-Time Accelerator Compilation”</strong>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9555373) <br> 
 <u>Abhishek Kumar Jain</u>, Douglas L Maskell, and Suhaib A Fahmy <br> 
@@ -73,8 +71,7 @@ Stephen Neuendorffer, Alireza Khodamoradi, Kristof Denolf, <u>Abhishek Kumar Jai
 <em>Journal of Signal Processing Systems (<strong>JSPS</strong>)</em>,  vol. 77, no. 1-2, pp. 61–76, October 2014, Springer. <br>
 
 
-Peer-Reviewed Workshop Papers
--------------------------------------------
+## Peer-Reviewed Workshop Papers
 
 <strong>“Run-time Reconfiguration of NoC in Xilinx ACAP Architecture”</strong>[[PDF]](http://www.nocarc.org/home/program)<br> 
 Aman Gupta, Sagheer Ahmed, <u>Abhishek Kumar Jain</u>, Ygal Arbel, Abbas Morshed, and David Schultz<br> 
