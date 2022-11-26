@@ -27,3 +27,5 @@ author_profile: true
 
 * Sivasankaran Saranya (NTU MSc, 2013-2014), <strong>“Memory sub-system and OS support for communication abstraction on Xilinx-Zynq”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/MSc-Dissertation-Saranya.pdf)
 * Pranjul Singhai (NTU MSc, 2014-2015), <strong>“Analysis of compute kernels and implementation on FPGA overlay architectures”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/MSc-Dissertation-Pranjul.pdf)
+* Prashant Ravi (NTU MSc, 2015-2016), <strong>“Designing hardware accelerators at high level of programming abstractions”</strong>[[PDF]](https://abhishekkumarjain.github.io/files/MSc-Dissertation-Prashant.pdf)
+
