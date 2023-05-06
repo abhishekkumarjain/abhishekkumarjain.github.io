@@ -7,6 +7,10 @@ author_profile: true
 
 ## Peer-Reviewed Conference Papers
 
+* <strong>“Modular and Lean Architecture with Elasticity for Sparse Matrix Vector Multiplication on FPGAs</strong>[[PDF]](https://people.ece.ubc.ca/hosseino/publications/fccm2023.pdf)<br> 
+<u>Abhishek Kumar Jain</u>, Chirag Ravishankar, Hossein Omidian, Sharan Kumar, Maithilee Kulkarni, Aashish Tripathi, and Dinesh Gaitonde <br> 
+<em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, May 2023.<br>
+
 * <strong>“Sparse Deep Neural Network Acceleration on HBM-Enabled FPGA Platform”</strong>[[PDF]](http://www.ieee-hpec.org/prelimagenda2021.html)<br> 
 <u>Abhishek Kumar Jain</u>, Sharan Kumar, Aashish Tripathi, and Dinesh Gaitonde <br> 
 <em>IEEE High Performance Extreme Computing (<strong>HPEC</strong>)</em>, September 2021.<br>
