@@ -11,7 +11,7 @@ author_profile: true
 <u>Abhishek Kumar Jain</u>, Chirag Ravishankar, Hossein Omidian, Sharan Kumar, Maithilee Kulkarni, Aashish Tripathi, and Dinesh Gaitonde <br> 
 <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, May 2023.<br>
 
-* <strong>“Sparse Deep Neural Network Acceleration on HBM-Enabled FPGA Platform”</strong>[[PDF]](http://www.ieee-hpec.org/prelimagenda2021.html)<br> 
+* <strong>“Sparse Deep Neural Network Acceleration on HBM-Enabled FPGA Platform”</strong>[[PDF]](http://www.ieee-hpec.org/prelimagenda2021.html)[[Slides]](https://abhishekkumarjain.github.io/files/HPEC2021-slides.pdf)<br> 
 <u>Abhishek Kumar Jain</u>, Sharan Kumar, Aashish Tripathi, and Dinesh Gaitonde <br> 
 <em>IEEE High Performance Extreme Computing (<strong>HPEC</strong>)</em>, September 2021.<br>
 
