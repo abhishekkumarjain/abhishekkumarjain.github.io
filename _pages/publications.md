@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Conference Papers
 
-* <strong>“Modular and Lean Architecture with Elasticity for Sparse Matrix Vector Multiplication on FPGAs"</strong>[[PDF]](https://people.ece.ubc.ca/hosseino/publications/fccm2023.pdf)<br> 
+* <strong>“Modular and Lean Architecture with Elasticity for Sparse Matrix Vector Multiplication on FPGAs"</strong>[[PDF]](https://people.ece.ubc.ca/hosseino/publications/fccm2023.pdf)[[Slides]](https://abhishekkumarjain.github.io/files/FCCM2023-slides.pdf)<br> 
 <u>Abhishek Kumar Jain</u>, Chirag Ravishankar, Hossein Omidian, Sharan Kumar, Maithilee Kulkarni, Aashish Tripathi, and Dinesh Gaitonde <br> 
 <em>IEEE Symposium on Field-Programmable Custom Computing Machines (<strong>FCCM</strong>)</em>, May 2023.<br>
 
